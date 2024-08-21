@@ -1,2 +1,6 @@
 /.venv
 /Conversations
+POC-1 Client to Server With Translation/.env
+POC-2 C to S to C with Translation/.env
+POC-3 Client to Client/.env
+POC-4 CSC MultiThreading/.env
